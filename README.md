@@ -18,7 +18,7 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3schools.com/python/default.asp" target="_blank"> 
-    <img alt="python" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="python" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=blue">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
