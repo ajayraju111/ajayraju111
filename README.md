@@ -1,15 +1,12 @@
-<h1 align="center">Hi , I'm Ajay raju <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Ajay raju <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Addicted%20to%20innovative%20lineups%20and%20startups&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I am an Ai Developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am an AI Developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajayraju111&label=Ajay's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ajayraju111" /> </p>
 
-## 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" /></p>
 
 ## 🛠️ My Skills
 
@@ -17,9 +14,9 @@
 
 
 <p align="left">
-	&emsp; 
-  <a href="https://www.w3schools.com/python/" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%232370ED.svg?logo=python&logoColor=white">
+   &emsp; 
+   <a href="https://www.w3schools.com/python/" target="_blank"> 
+    <img alt="Python" src="https://cdn.worldvectorlogo.com/logos/python-4.svg" width="40">
   </a> 
 	
   &emsp; 
@@ -34,8 +31,7 @@
   <a href="https://www.w3schools.com/java/default.asp" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
-&emsp; 
-</p>
+
 
 ### 👉 Frontend Development
 
@@ -58,10 +54,11 @@
 ### 👉 Databases & Cloud Hosting
 
 <p align="left">
+	
+  &emsp;
+	<a href= "https://aws.amazon.com/"  src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg"
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
