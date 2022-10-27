@@ -48,7 +48,6 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
-&emsp; 
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -56,7 +55,7 @@
 <p align="left">
 	
   &emsp;
-	<a href= "https://aws.amazon.com/"  src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg"
+     <a href= "https://aws.amazon.com/"  src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg"></a>
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
