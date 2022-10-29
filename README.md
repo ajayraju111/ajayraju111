@@ -18,9 +18,8 @@
    <a href="https://www.w3schools.com/python/" target="_blank"> 
     <img alt="Python" src="https://cdn.worldvectorlogo.com/logos/python-4.svg" width="40">
   </a> 
-	
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+   &emsp; 
+   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   &emsp;
@@ -53,9 +52,12 @@
 ### 👉 Databases & Cloud Hosting
 
 <p align="left">
-	
   &emsp;
-     <a href= "https://aws.amazon.com/"  src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg"></a>
+     <a href= "https://aws.amazon.com/"><img alt="aws" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="40"></a>
+  &emsp;
+     <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://www.pngitem.com/pimgs/m/3-31510_svg-kubernetes-logo-hd-png-download.png" width="70"></a>   
+  &emsp;
+     <a href= "https://www.linode.com/"><img alt="linode" src="https://download.logo.wine/logo/Linode/Linode-Logo.wine.png" width="40"></a>  
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
