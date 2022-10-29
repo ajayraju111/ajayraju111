@@ -55,7 +55,9 @@
   &emsp;
      <a href= "https://aws.amazon.com/"><img alt="aws" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="40"></a>
   &emsp;
-     <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://logolook.net/wp-content/uploads/2022/06/Kubernetes-Logo.png" width="80"></a>   
+     <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://logolook.net/wp-content/uploads/2022/06/Kubernetes-Logo.png" width="80"></a> 
+  &emsp;
+     <a href="www.docker.com"><img alt="Kubernetes" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHK-i2VzKvruC7yhkfmkuyjbeZdfOcA8lQJA&usqp=CAU" width="50"></a> 
   &emsp;
      <a href= "https://www.linode.com/"><img alt="linode" src="https://download.logo.wine/logo/Linode/Linode-Logo.wine.png" width="80"></a>  
   &emsp;
