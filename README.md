@@ -55,9 +55,9 @@
   &emsp;
      <a href= "https://aws.amazon.com/"><img alt="aws" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="40"></a>
   &emsp;
-     <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://www.pngitem.com/pimgs/m/3-31510_svg-kubernetes-logo-hd-png-download.png" width="70"></a>   
+     <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://logolook.net/wp-content/uploads/2022/06/Kubernetes-Logo.png" width="80"></a>   
   &emsp;
-     <a href= "https://www.linode.com/"><img alt="linode" src="https://download.logo.wine/logo/Linode/Linode-Logo.wine.png" width="40"></a>  
+     <a href= "https://www.linode.com/"><img alt="linode" src="https://download.logo.wine/logo/Linode/Linode-Logo.wine.png" width="80"></a>  
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
