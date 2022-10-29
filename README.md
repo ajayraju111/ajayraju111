@@ -10,7 +10,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Programming languages & Framewroks
 
 
 <p align="left">
