@@ -52,6 +52,20 @@
     <img alt="React" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/width = "35px">
   </a>
 </p>
+### 👉 Backend Development
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3schools.com/nodejs/default.asp" target="_blank"> 
+   <img alt="Node.js" src="https://iconscout.com/free-icon/nodejs-2" width ="35px">
+  </a>   
+</p>
+
+
+
+
+
+
 
 ### 👉 Databases & Cloud Hosting
 
