@@ -48,8 +48,8 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
-  a href="https://www.w3schools.com/react/default.asp" target="_blank"> 
-    <img alt="React" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/width = "200px">
+  <a href="https://www.w3schools.com/react/default.asp" target="_blank"> 
+    <img alt="React" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/width = "20px">
   </a>
 </p>
 
