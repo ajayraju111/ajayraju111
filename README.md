@@ -57,7 +57,7 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3schools.com/nodejs/default.asp" target="_blank"> 
-   <img alt="Node.js" src="https://iconscout.com/free-icon/nodejs-2" width ="35px">
+   <img alt="Node.js" src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png?f=webp&w=256" width ="35px">
   </a>   
 </p>
 
