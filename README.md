@@ -49,7 +49,7 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/react/default.asp" target="_blank"> 
-    <img alt="React" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/width = "50px">
+    <img alt="React" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/width = "35px">
   </a>
 </p>
 
