@@ -49,7 +49,7 @@
   </a>
   &emsp;
   a href="https://react.dev/" target="_blank"> 
-    <img alt="React" src="https://www.google.com/imgres?q=react%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F2300px-React-icon.svg.png&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AReact-icon.svg&docid=f37ex3LPb9a9oM&tbnid=4fP0joQQKRm5dM&vet=12ahUKEwiZ07D7-eSFAxXiamwGHT8-CL8QM3oECBsQAA..i&w=2300&h=2000&hcb=2&ved=2ahUKEwiZ07D7-eSFAxXiamwGHT8-CL8QM3oECBsQAA"/>
+    <img alt="React" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
   </a>
 </p>
 
